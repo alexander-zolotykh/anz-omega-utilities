@@ -1,0 +1,13 @@
+{
+  "name": "az-omega-utilities",
+  "version": "0.0.0",
+  "description": "functional utilities",
+  "main": "src/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Alexander Zolotykh",
+  "license": "MIT",
+  "type": "module",
+  "files": ["src", "type.d.ts"]
+}
