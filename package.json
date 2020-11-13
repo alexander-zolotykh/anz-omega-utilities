@@ -9,5 +9,5 @@
   "author": "Alexander Zolotykh",
   "license": "MIT",
   "type": "module",
-  "files": ["src", "type.d.ts"]
+  "files": ["src", "types.d.ts"]
 }
